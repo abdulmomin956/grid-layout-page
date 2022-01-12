@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-color: #F3F1FF;
+}
+nav, .logo, .navigation{
+    display: flex;
+    align-items: center;
+}
+nav{
+    background-color: #562EFF;
+    color: white;
+    justify-content: space-between;
+    height: 94px;
+    padding-left: 285px;
+    padding-right: 285px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.icon{
+    width: 40px;
+    height: 51px;
+   
+}
+.heading{
+    font-size: 24px;
+    font-weight: 500;
+}
+.navigation a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+}
+.profile{
+    width: 51px;
+    height: 51px;
+}
